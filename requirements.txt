@@ -6,3 +6,5 @@ protobuf
 requests
 aiohttp
 PyJWT
+Flask
+gunicorn
